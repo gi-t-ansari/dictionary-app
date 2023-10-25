@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.App button {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #1b8b37;
+  font-size: 16px;
+  cursor: pointer;
+  color: #fff;
+}
